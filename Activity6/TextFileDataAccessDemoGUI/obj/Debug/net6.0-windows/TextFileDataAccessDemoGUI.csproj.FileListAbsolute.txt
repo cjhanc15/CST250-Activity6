@@ -1,0 +1,17 @@
+C:\Users\Shadow\source\repos\Activity6\TextFileDataAccessDemoGUI\bin\Debug\net6.0-windows\TextFileDataAccessDemoGUI.exe
+C:\Users\Shadow\source\repos\Activity6\TextFileDataAccessDemoGUI\bin\Debug\net6.0-windows\TextFileDataAccessDemoGUI.deps.json
+C:\Users\Shadow\source\repos\Activity6\TextFileDataAccessDemoGUI\bin\Debug\net6.0-windows\TextFileDataAccessDemoGUI.runtimeconfig.json
+C:\Users\Shadow\source\repos\Activity6\TextFileDataAccessDemoGUI\bin\Debug\net6.0-windows\TextFileDataAccessDemoGUI.dll
+C:\Users\Shadow\source\repos\Activity6\TextFileDataAccessDemoGUI\bin\Debug\net6.0-windows\TextFileDataAccessDemoGUI.pdb
+C:\Users\Shadow\source\repos\Activity6\TextFileDataAccessDemoGUI\obj\Debug\net6.0-windows\TextFileDataAccessDemoGUI.csproj.AssemblyReference.cache
+C:\Users\Shadow\source\repos\Activity6\TextFileDataAccessDemoGUI\obj\Debug\net6.0-windows\TextFileDataAccessDemoGUI.Form1.resources
+C:\Users\Shadow\source\repos\Activity6\TextFileDataAccessDemoGUI\obj\Debug\net6.0-windows\TextFileDataAccessDemoGUI.csproj.GenerateResource.cache
+C:\Users\Shadow\source\repos\Activity6\TextFileDataAccessDemoGUI\obj\Debug\net6.0-windows\TextFileDataAccessDemoGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\source\repos\Activity6\TextFileDataAccessDemoGUI\obj\Debug\net6.0-windows\TextFileDataAccessDemoGUI.AssemblyInfoInputs.cache
+C:\Users\Shadow\source\repos\Activity6\TextFileDataAccessDemoGUI\obj\Debug\net6.0-windows\TextFileDataAccessDemoGUI.AssemblyInfo.cs
+C:\Users\Shadow\source\repos\Activity6\TextFileDataAccessDemoGUI\obj\Debug\net6.0-windows\TextFileDataAccessDemoGUI.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\source\repos\Activity6\TextFileDataAccessDemoGUI\obj\Debug\net6.0-windows\TextFileDataAccessDemoGUI.dll
+C:\Users\Shadow\source\repos\Activity6\TextFileDataAccessDemoGUI\obj\Debug\net6.0-windows\refint\TextFileDataAccessDemoGUI.dll
+C:\Users\Shadow\source\repos\Activity6\TextFileDataAccessDemoGUI\obj\Debug\net6.0-windows\TextFileDataAccessDemoGUI.pdb
+C:\Users\Shadow\source\repos\Activity6\TextFileDataAccessDemoGUI\obj\Debug\net6.0-windows\TextFileDataAccessDemoGUI.genruntimeconfig.cache
+C:\Users\Shadow\source\repos\Activity6\TextFileDataAccessDemoGUI\obj\Debug\net6.0-windows\ref\TextFileDataAccessDemoGUI.dll

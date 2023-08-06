@@ -1,0 +1,15 @@
+C:\Users\Shadow\source\repos\Activity6\LINQ Tutorial\bin\Debug\net6.0\LINQ Tutorial.exe
+C:\Users\Shadow\source\repos\Activity6\LINQ Tutorial\bin\Debug\net6.0\LINQ Tutorial.deps.json
+C:\Users\Shadow\source\repos\Activity6\LINQ Tutorial\bin\Debug\net6.0\LINQ Tutorial.runtimeconfig.json
+C:\Users\Shadow\source\repos\Activity6\LINQ Tutorial\bin\Debug\net6.0\LINQ Tutorial.dll
+C:\Users\Shadow\source\repos\Activity6\LINQ Tutorial\bin\Debug\net6.0\LINQ Tutorial.pdb
+C:\Users\Shadow\source\repos\Activity6\LINQ Tutorial\obj\Debug\net6.0\LINQ Tutorial.csproj.AssemblyReference.cache
+C:\Users\Shadow\source\repos\Activity6\LINQ Tutorial\obj\Debug\net6.0\LINQ Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\source\repos\Activity6\LINQ Tutorial\obj\Debug\net6.0\LINQ Tutorial.AssemblyInfoInputs.cache
+C:\Users\Shadow\source\repos\Activity6\LINQ Tutorial\obj\Debug\net6.0\LINQ Tutorial.AssemblyInfo.cs
+C:\Users\Shadow\source\repos\Activity6\LINQ Tutorial\obj\Debug\net6.0\LINQ Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\source\repos\Activity6\LINQ Tutorial\obj\Debug\net6.0\LINQ Tutorial.dll
+C:\Users\Shadow\source\repos\Activity6\LINQ Tutorial\obj\Debug\net6.0\refint\LINQ Tutorial.dll
+C:\Users\Shadow\source\repos\Activity6\LINQ Tutorial\obj\Debug\net6.0\LINQ Tutorial.pdb
+C:\Users\Shadow\source\repos\Activity6\LINQ Tutorial\obj\Debug\net6.0\LINQ Tutorial.genruntimeconfig.cache
+C:\Users\Shadow\source\repos\Activity6\LINQ Tutorial\obj\Debug\net6.0\ref\LINQ Tutorial.dll
